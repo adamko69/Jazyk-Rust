@@ -1,0 +1,1 @@
+/home/adam/Documents/Rust_projects/Jazyk_Rust/cvicenie2/target/debug/cvicenie2: /home/adam/Documents/Rust_projects/Jazyk_Rust/cvicenie2/src/main.rs /home/adam/Documents/Rust_projects/Jazyk_Rust/cvicenie2/src/task.rs

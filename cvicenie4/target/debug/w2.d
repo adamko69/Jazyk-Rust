@@ -1,0 +1,1 @@
+/home/adam/Documents/Rust_projects/Jazyk_Rust/cvicenie4/target/debug/w2: /home/adam/Documents/Rust_projects/Jazyk_Rust/cvicenie4/src/main.rs /home/adam/Documents/Rust_projects/Jazyk_Rust/cvicenie4/src/task/control.rs /home/adam/Documents/Rust_projects/Jazyk_Rust/cvicenie4/src/task.rs /home/adam/Documents/Rust_projects/Jazyk_Rust/cvicenie4/src/task_manager_config.rs
